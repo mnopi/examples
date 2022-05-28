@@ -1,0 +1,137 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ComposeMissingKeys" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <GlobalSettings restrictedDuplicateScope="SAME_FILE" />
+      <Languages>
+        <language minSize="29" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PickleLoadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.9" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="myAllPythons" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyMethodFirstArgAssignmentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="bapy" />
+            <item index="1" class="java.lang.String" itemvalue="dotenv" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E741" />
+          <option value="E742" />
+          <option value="W605" />
+          <option value="E731" />
+          <option value="E702" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="print" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.__setitem__" />
+          <option value="_PathLike.register" />
+          <option value="pathlib._normal_accessor" />
+          <option value="typing._GenericAlias" />
+          <option value="click.BoolParamType" />
+          <option value="sys._getframe" />
+          <option value="Level.__args__" />
+          <option value="object.__args__" />
+          <option value="rich.prompt" />
+          <option value="str.read_text" />
+          <option value="asyncio.runners._cancel_all_tasks" />
+          <option value="bapy.Logr.root" />
+          <option value="asyncio.events.AbstractEventLoop._selector" />
+          <option value="typing._alias" />
+          <option value="ipaddress._BaseAddress" />
+          <option value="threading._RLock" />
+          <option value="threading._CRLock" />
+          <option value="typing.Mapping.__delitem__" />
+          <option value="typing.Mapping.__setitem__" />
+          <option value="LST.__args__" />
+          <option value="SeqNoStr.__args__" />
+          <option value="Seq.__args__" />
+          <option value="asyncio.events._RunningLoop" />
+          <option value="importlib._bootstrap" />
+          <option value="importlib.resources.files" />
+          <option value="bapy.core.Path._cparts" />
+          <option value="importlib._bootstrap_external" />
+          <option value="importlib.machinery._PYCACHE" />
+          <option value="_importlib_modulespec._Loader.exec_module" />
+          <option value="upins.path.Path._cparts" />
+          <option value="build.__main__" />
+          <option value="upins.paths.Path._cparts" />
+          <option value="upins._path.Path._cparts" />
+          <option value="rc._path.Path._cparts" />
+          <option value="str.__args__" />
+          <option value="typing._SpecialForm._name" />
+          <option value="AsyncsUnion.__args__" />
+          <option value="_ast.expr.id" />
+          <option value="DefsUnion.__args__" />
+          <option value="email.mime.application" />
+          <option value="sys._base_executable" />
+          <option value="sys._current_frames" />
+          <option value="type._field_defaults" />
+          <option value="type.__dataclass_fields__" />
+          <option value="inspect._empty" />
+          <option value="rclib._cls" />
+          <option value="asyncio._get_running_loop" />
+          <option value="_importlib_modulespec.ModuleType.__all__" />
+          <option value="bapy.__init__" />
+          <option value="upins._get_paths" />
+          <option value="upins._get_paths_script" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PydanticTypeCheckerInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="dynamicSourcePath" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="executableNoShebang" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="shebangNotExecutable" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>

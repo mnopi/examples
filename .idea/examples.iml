@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Ansible" />
+      <excludeFolder url="file://$MODULE_DIR$/Brewfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/Docker" />
+      <excludeFolder url="file://$MODULE_DIR$/Jenkins" />
+      <excludeFolder url="file://$MODULE_DIR$/Jenkins-Ansible-CI-CD-process" />
+      <excludeFolder url="file://$MODULE_DIR$/Makefile" />
+      <excludeFolder url="file://$MODULE_DIR$/Python" />
+      <excludeFolder url="file://$MODULE_DIR$/Ubuntu" />
+      <excludeFolder url="file://$MODULE_DIR$/bash" />
+      <excludeFolder url="file://$MODULE_DIR$/bump2version" />
+      <excludeFolder url="file://$MODULE_DIR$/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/icon" />
+      <excludeFolder url="file://$MODULE_DIR$/macOS" />
+      <excludeFolder url="file://$MODULE_DIR$/repos-dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/repos-dotfiles" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="GOOGLE" />
+    <option name="myDocStringFormat" value="Google" />
+  </component>
+  <component name="ReSTService">
+    <option name="DOC_DIR" value="$USER_HOME$/Drive/nferx/repos/docs" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
